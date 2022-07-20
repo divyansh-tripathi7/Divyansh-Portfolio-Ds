@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divyansh Tripathi on Ananke</title>
+    <link>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/</link>
+    <description>Recent content in Divyansh Tripathi on Ananke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whatsapp chat analyser</title>
+      <link>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/post/project-2/</guid>
+      <description> mast hai kucch bhi backgroundmost talkative least active emoji battles most words wordclouds etc whatsapp chat link to github repo </description>
+    </item>
+    
+    <item>
+      <title>Tweets Sentiment Analysis</title>
+      <link>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/post/project-1/</guid>
+      <description>an application of nlp using a lot of libraries and worked on jupyter nb
+it shows how many Tweets postive negative ratio subjectivity polarity and estimates on the basis trump or tradeu link to github repo //add links after updating github</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/about/</guid>
+      <description> passionate about ml and data science
+engineering UG in electronics nith </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://divyansh-tripathi7.github.io/Divyansh-Portfolio-Ds/contact/</guid>
+      <description>Follow me on my social media platforms
+Platform URL LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile GitHub: https://github.com/divyansh-tripathi7 Kaggle: https://www.kaggle.com/divyanshtripathi7 Leetcode: https://leetcode.com/divyanshh007/ </description>
+    </item>
+    
+  </channel>
+</rss>
